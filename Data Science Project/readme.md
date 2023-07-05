@@ -1,1 +1,1 @@
-# Hand W ritten Digit Prediction
+# Hand Written Digit Prediction
